@@ -1,0 +1,8 @@
+name = "browser-worker"
+main = "src/index.ts"
+compatibility_date = "2022-12-06"
+node_compat = true
+
+[[r2_buckets]]
+ bucket_name = "browser-worker"
+ binding = "BROWSER_BUCKET"
